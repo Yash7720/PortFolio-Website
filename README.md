@@ -18,12 +18,22 @@ It showcases my skills, projects, and achievements as a Web Developer and UI/UX 
 - **Responsive Design Techniques**
 
 ## 📂 Project Structure
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│ ├── images/
-│ ├── icons/
+Portfolio-Website/
+│
+├── css/                   # Compiled or vendor CSS files
+├── scss/                  # Source SCSS/Sass files (if you’re using a preprocessor)
+├── js/                    # Your JavaScript logic
+├── lib/                   # Third-party libraries (e.g., plugins, helpers)
+├── fonts/                 # Custom/web fonts
+├── images/                # Images, screenshots, icons, etc.
+├── resume/                # Resume PDF or related assets
+│
+├── index.html             # Main entry page (home)
+├── demo.html              # Demo or alternate version/page
+├── README.md             # Project description (what you asked earlier)
+├── prepros-6.config       # Prepros project configuration (build tool)
+├── .DS_Store             # macOS system file (should be ignored in Git)
+
 
 
 ## 📸 Preview
@@ -31,9 +41,9 @@ It showcases my skills, projects, and achievements as a Web Developer and UI/UX 
 *(Replace with an actual screenshot of your website)*
 ## 📬 Contact
 If you want to collaborate or have any questions, feel free to reach out:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** yashbhoye03@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yash-bhoye-68b1ab2b2)
+- **GitHub:** [Your GitHub Profile](https://github.com/Yash7720)
 
 ---
 ⭐ **Don’t forget to star this repo if you like my portfolio!**
