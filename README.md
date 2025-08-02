@@ -37,7 +37,7 @@ Portfolio-Website/
 
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/images/preview.png)  
+https://yash7720.github.io/PortFolio-Website/  
 *(Replace with an actual screenshot of your website)*
 ## 📬 Contact
 If you want to collaborate or have any questions, feel free to reach out:
